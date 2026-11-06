@@ -13,12 +13,19 @@ As a producer and composer, I explore soundscapes and interactive media. Alongsi
 
 ### 🚀 About Me
 🔭 I’m currently working on concept art for [redacted] and a [redacted] game prototype.
+
 🌱 I’m currently learning 3D to 2D art workflows and interactive game logic. Looking forward to getting better at Splash Art.
+
 👯 I’m looking to collaborate on indie game jams, concept art, and audio.
+
 🤔 I’m looking for help with programming game mechanics, technical art implementation, and Networking.
+
 💬 Ask me about Video Games and/or Music... or both!!
+
 📫 How to reach me: [visit my LinkdIn: https://www.linkedin.com/in/dibyangsugoswami/]
+
 😄 Pronouns: He/Him
+
 ⚡ Fun fact: I LOVE Model Kits, Action Figures, collecting stuff and Skateboarding.
 
 <!--
